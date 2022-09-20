@@ -48,11 +48,11 @@ ul{
 
 a{
     font-size: 45px;
-    margin-top: -156px;
+    margin-top: -174px;
     display: block;
     color: white;
     background-color: rgb(0, 0, 0);
-    height: 78px;
+    height: 87px;
 }
  
 /*   padding: 180px 15px;;   margin-top: -424px;*/
@@ -64,12 +64,11 @@ a:hover{
 }
 
 label{
-    margin-top: -540px;
+    margin-top: -594px;
     padding: 16px;
     position: absolute;
     z-index: 1;
     background-color: beige;
-
 }
 
 h1{
@@ -79,21 +78,23 @@ h1{
 
 
 }
-
-
 h2{
-    margin-top: 50px;
-    margin-left: 160px;
+    margin-top: 522px;
+    margin-left: 460px;
 }
+
+
+
 
 #abc{
     
-   margin-top: -420px;
-    margin-left: 800px;
-    height: 330px;
-    width: 260px;
-    border-radius: 20px;
-}
+    margin-top: -420px;
+     margin-left: 800px;
+     height: 330px;
+     width: 260px;
+     border-radius: 20px;
+ }
+ 
 
 #texto{
     font: bolder;
@@ -103,25 +104,14 @@ h2{
     font: 10;
 }
 
-#at{
-    list-style-position: inside;
-}
-
 #caf{
-    list-style-type: square;
-    margin-top: 154px;
+    margin-top: 174px;
     margin-left: 424px;
 }
 
-#h3{
-        list-style-type: square;
-      
-}
 
-#con{
-    margin-top: -594px;
-    padding: 16px;
-    position: absolute;
-    z-index: 1;
-    background-color: beige;
-}
+
+  ul.a{
+      margin-top: 160px;
+      margin-left: 450px;
+  }

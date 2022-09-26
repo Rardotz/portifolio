@@ -41,18 +41,17 @@ input[type="checkbox"]:checked ~ nav
 
 ul{
 
-    top: 0px;
+    top: -522px;
     position: absolute;
-    width: 100%;
+    margin-right: 500px;
 }
 
 a{
     font-size: 45px;
-    margin-top: -174px;
+    padding: 67px 15px;
     display: block;
     color: white;
     background-color: rgb(0, 0, 0);
-    height: 87px;
 }
  
 /*   padding: 180px 15px;;   margin-top: -424px;*/
@@ -111,6 +110,7 @@ h2{
 
 
   ul.a{
-      margin-top: 260px;
+      margin-top: 660px;
       margin-left: 450px;
+      font-size: 45px;
   }

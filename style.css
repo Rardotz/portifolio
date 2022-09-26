@@ -35,24 +35,25 @@ nav{
     transition: all .3s ;
 }
 input[type="checkbox"]:checked ~ nav
+
 {
     transform: translateX(350px);
 }
 
 ul{
 
-    top: 0px;
+    top: -522px;
     position: absolute;
     width: 100%;
 }
 
 a{
+    margin-top: 55px;
     font-size: 45px;
-    margin-top: -156px;
     display: block;
     color: white;
     background-color: rgb(0, 0, 0);
-    height: 78px;
+    padding: 100px 15px;
 }
  
 /*   padding: 180px 15px;;   margin-top: -424px;*/
@@ -95,33 +96,8 @@ h2{
     border-radius: 20px;
 }
 
-#texto{
-    font: bolder;
-}
 
-#home{
-    font: 10;
-}
+li{
+    height: 107;
 
-#at{
-    list-style-position: inside;
-}
-
-#caf{
-    list-style-type: square;
-    margin-top: 154px;
-    margin-left: 424px;
-}
-
-#h3{
-        list-style-type: square;
-      
-}
-
-#con{
-    margin-top: -594px;
-    padding: 16px;
-    position: absolute;
-    z-index: 1;
-    background-color: beige;
 }
